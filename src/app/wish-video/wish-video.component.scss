@@ -1,0 +1,22 @@
+.wish-video-class{
+    position: fixed;
+    z-index: 1031;
+    background-color: rgba(0,0,0,.6);
+    width: 100%;
+    height: 100%;
+    top: 0;
+    overflow: hidden;
+    transition: .5s ease-in-out;
+    left: 0;
+    text-align: center;
+}
+
+img{
+    position: relative;
+    z-index: 1061;
+    top: 0;
+}
+
+/*.custom-image-main{
+    overflow: hidden;
+}*/
